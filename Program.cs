@@ -10,10 +10,10 @@ class Program
             Console.Clear();
             Console.WriteLine("Menu de Opções:");
             Console.WriteLine("1 - Calcular Soma");
-            Console.WriteLine("2 - Função 2");
-            Console.WriteLine("3 - Função 3");
-            Console.WriteLine("4 - Função 4");
-            Console.WriteLine("5 - Função 5");
+            Console.WriteLine("2 - Verificar Fibonacci");
+            Console.WriteLine("3 - Analisar Faturamento");
+            Console.WriteLine("4 - Calcular Percentual Faturamento");
+            Console.WriteLine("5 - Inverter String");
             Console.WriteLine("0 - Sair");
             Console.Write("Escolha uma opção: ");
 
